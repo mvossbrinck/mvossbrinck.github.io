@@ -1,0 +1,23 @@
+# Site settings
+title: Madeline Vossbrinck
+email: madeline.vossbrinck@gmail.com
+description: Data Scientist | Machine Learning | Analytics
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://madelinevossbrinck.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Navigation
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
