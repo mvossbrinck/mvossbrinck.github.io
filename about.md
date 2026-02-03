@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-I'm a data scientist with 6+ years of experience building machine learning models and analytics infrastructure that drive business decisions.
+I'm a data scientist with 7+ years of experience building ML models and analytics infrastructure, supported by a decade-long analytics background spanning advertising and healthcare research. I'm driven by creating data solutions that enable smarter business decisions
 
 ### What I Do
 
@@ -26,7 +26,7 @@ I hold an MS in Biostatistics from Columbia University and completed intensive t
 
 I'm passionate about building production-ready data systems and exploring the intersection of data science and analytics engineering. Currently, I'm working on projects that demonstrate modern data engineering practices and anomaly detection techniques.
 
-When I'm not working with data, I'm based in Connecticut and enjoy [add your interests here].
+When I'm not working with data, I enjoy spending time with my family, fixing up our new house, and doing various crafts.
 
 ---
 
