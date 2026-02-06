@@ -4,6 +4,12 @@ title: Blog
 permalink: /blog/
 ---
 
+Welcome to my blog! This is where I document my journey exploring AI tools and upskilling in data science and analytics engineering. 
+
+I use this space to share projects I'm working on, lessons learned while experimenting with new technologies, and insights from hands-on learning. Whether I'm building data pipelines, testing modern analytics tools, or diving into machine learning techniques, I'll write about the process, challenges, and takeaways.
+
+---
+
 ## Recent Posts
 
 {% for post in site.posts %}
