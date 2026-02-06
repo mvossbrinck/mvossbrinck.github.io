@@ -11,16 +11,16 @@ I'm a data scientist with 7+ years of experience building ML models and analytic
 ### What I Do
 
 I specialize in:
-- **Machine Learning**: Building predictive models for classification, regression, and propensity scoring using Python and scikit-learn
-- **Data Engineering**: Designing scalable data pipelines and transformations with SQL, dbt, and cloud data warehouses
-- **Analytics & Visualization**: Creating actionable insights through Tableau dashboards and statistical analysis
+- **Statistics and Machine Learning**: Building predictive models for classification, regression, and propensity scoring using Python and scikit-learn
+- **Analytics Engineering**: Designing scalable data pipelines and transformations with SQL, dbt, and cloud data warehouses
+- **Data Visualization**: Creating actionable insights through Tableau dashboards and statistical analysis
 - **Production ML Systems**: Deploying models that process hundreds of millions of rows and generate revenue
 
 ### Background
 
 Most recently, I worked as a Data Scientist at Omnicom Media Group, where I built ML audience segmentation models and automated workflows that reduced model creation time from one week to two hours. Before that, I served as a Business Intelligence Analyst at The Trade Desk, developing analytics infrastructure for client services teams.
 
-I hold an MS in Biostatistics from Columbia University and completed intensive training in data science at Metis. My technical foundation includes Python, SQL, machine learning, and modern data stack tools like dbt.
+I hold an MS in Biostatistics from Columbia University and completed intensive training in data science at Metis. My technical foundation includes Python, SQL, machine learning, and I'm currently learning modern data stack tools like dbt.
 
 ### Current Focus
 
